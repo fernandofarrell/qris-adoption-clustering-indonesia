@@ -1,6 +1,6 @@
-# Assessing QRIS Adoption Efficiency In Indonesia Through Clustering Analysis
+# Evaluating Regional Disparities in Indonesia: A Clustering Analysis of Digital Readiness and MSEs QRIS Adoption
 
-This repository contains the dataset and computational code used in the research paper: **"Assessing QRIS Adoption Efficiency In Indonesia Through Clustering Analysis"**.
+This repository contains the dataset and computational code used in the research paper: **"Evaluating Regional Disparities in Indonesia: A Clustering Analysis of Digital Readiness and MSEs QRIS Adoption"**.
 
 ## Files in this Repository
 * `qris_regional_dataset_2024.csv`: The pre-processed dataset containing the IP-TIK Score, standardized User Ratio, and standardized Merchant Ratio for 34 provinces in Indonesia.
